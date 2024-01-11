@@ -1,0 +1,7 @@
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\bin\Debug\6.soru-9Bkaan.exe.config
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\bin\Debug\6.soru-9Bkaan.exe
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\bin\Debug\6.soru-9Bkaan.pdb
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\obj\Debug\6.soru-9Bkaan.csprojAssemblyReference.cache
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\obj\Debug\6.soru-9Bkaan.csproj.CoreCompileInputs.cache
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\obj\Debug\6.soru-9Bkaan.exe
+C:\Users\ERDEM\source\repos\6.soru-9Bkaan\6.soru-9Bkaan\obj\Debug\6.soru-9Bkaan.pdb
